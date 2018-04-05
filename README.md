@@ -1,2 +1,0 @@
-# ExerciseOne
-Coding Exercises 
